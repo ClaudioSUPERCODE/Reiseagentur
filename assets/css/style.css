@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: "Cinzel-VariableFont_wght.ttf";
+    src: url("../fonts/Cinzel-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: "Poppins-Regular.ttf";
+    src: url("../fonts/Poppins-Regular.ttf");
+}
+
+header h1 {
+    font-family: "Cinzel-VariableFont_wght.ttf";
+    color: #565656;
+    padding-left: 100px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+header div {
+    background-image: url("https://images.unsplash.com/photo-1486312699619-be057cfc0342?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1502&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+header h2 {
+    font-family: "Cinzel-VariableFont_wght.ttf";
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-weight: lighter;
+    width: 320px;
+    margin: auto;
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+
+main h1 {
+    font-family: "Cinzel-VariableFont_wght.ttf";
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-weight: lighter;
+}
+
+main p {
+    font-family: "Poppins-Regular.ttf";
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.pics-row-1 {
+    display: block;
+    text-align: center;
+}
+
+.pics-row-2 {
+    display: block;
+    text-align: center;
+}
+
+
+main div img {
+    width: 450px;
+    margin: 30px;
+}
+
+main h2 {
+    font-family: "Cinzel-VariableFont_wght.ttf";
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 35px;
+    font-weight: lighter;
+}
+
+.dates {
+    font-family: "Poppins-Regular.ttf";
+    margin-left: 200px;
+    margin-bottom: 100px;
+}
+
+footer {
+    border: 1px solid black;
+}
+
+footer h1 {
+    font-family: "Cinzel-VariableFont_wght.ttf";
+    text-align: center;
+    font-weight: lighter;
+    padding-top: 30px;
+}
