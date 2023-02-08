@@ -98,3 +98,19 @@ footer h1 {
     font-weight: lighter;
     padding-top: 30px;
 }
+
+footer div {
+    text-align: center;
+}
+
+footer div img {
+    margin: 15px;
+}
+
+.sold-out {
+    color: red;
+}
+
+.available {
+    color: green;
+}
